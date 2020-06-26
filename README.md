@@ -1,5 +1,5 @@
 # El juego de la vida AG
-_ame of life, improved with Genetic Algorithms to simulate the behavior of living beings trying to survive by eating and avoiding predators
+_Game of life, improved with Genetic Algorithms to simulate the behavior of living beings trying to survive by eating and avoiding predators
 Part of the learning unit Genetic Algorithms._
 
 ## Comenzando 🚀
