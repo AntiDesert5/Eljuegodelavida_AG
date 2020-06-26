@@ -4,9 +4,9 @@ Part of the learning unit Genetic Algorithms._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_These instructions will allow you to obtain a copy of the running project on your local machine for development and testing purposes._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+See **Deployment** to learn how to deploy the project.
 
 
 ### Pre-requisitos 📋
@@ -17,9 +17,9 @@ _Instalar Pygame en consola Python_
 
 ## Ejecutando ⚙️
 
-_basta con ejecutar el archivo juegopygame.py_
+_just run the file juegopygame.py_
 
-_El juego esta hecho en pygame se utiliza el metodo de mutacion para mejorar los bots, se calcula la distancia entre los puntos con el rango de vision (circulo verde)._
+_The game is made in pygame, the mutation method is used to improve the bots, the distance between the points is calculated with the range of vision (green circle)._
 
 
 ## Construido con 🛠️
@@ -36,21 +36,19 @@ _Pygame_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Axel Valenzuela Juarez** - *Trabajo Inicial* - [AntiDesert5](https://github.com/AntiDesert5)
 * **Multiples referencias web y videos de youtube, Gracias** - *Contribucion aprendizaje* 
 
 
 ## Licencia 📄
 
-_Este proyecto está bajo la Licencia Libre_
+_This project is under the Free License_
 _You can use this code for anything you want, please leave a star and fork, I appreciate it._
 ## Expresiones de Gratitud 🎁
 
-* Todos los videos de youtube y personas que se esmeran en crear documentacion de AG y Python📢
+* All youtube videos and people who work hard to create AG and Python documentation📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Gracias🤓.
+* Gracias 🤓 Thanks.
 
 
 
